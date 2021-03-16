@@ -1,0 +1,4 @@
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\bin\Debug\LibXML.dll
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\bin\Debug\LibXML.pdb
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\obj\Debug\LibXML.dll
+C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\obj\Debug\LibXML.pdb

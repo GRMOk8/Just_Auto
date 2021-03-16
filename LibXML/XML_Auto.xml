@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+  <Car>
+    <Marka>VAZ</Marka>
+    <Model>2131</Model>
+    <Komplectacia>Lux</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>VAZ</Marka>
+    <Model>2110</Model>
+    <Komplectacia>Standart</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>Chevrolet</Marka>
+    <Model>Spark</Model>
+    <Komplectacia>LS</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>Mitsubishi</Marka>
+    <Model>Carisma</Model>
+    <Komplectacia>GX</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>Mitsubishi</Marka>
+    <Model>Chariot</Model>
+    <Komplectacia>NL</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>Mitsubishi</Marka>
+    <Model>Delica</Model>
+    <Komplectacia>Chamonix</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>UAZ</Marka>
+    <Model>31519</Model>
+    <Komplectacia>Hunter</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>UAZ</Marka>
+    <Model>Patriot</Model>
+    <Komplectacia>Lux</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>Mitsubishi</Marka>
+    <Model>Fuso</Model>
+    <Komplectacia>NX</Komplectacia>
+  </Car>
+
+  <Car>
+    <Marka>GAZ</Marka>
+    <Model>31106 Valdai</Model>
+    <Komplectacia>Komfort</Komplectacia>
+  </Car>
+</Catalog>

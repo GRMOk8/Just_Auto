@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<match_catalog>
+  <match>
+    <team1>Na'vi</team1>
+    <team2>VP</team2>
+    <points>2:1</points>
+  </match>
+
+  <match>
+    <team1>Hellraisers</team1>
+    <team2>VP</team2>
+    <points>0:2</points>
+  </match>
+
+  <match>
+    <team1>Hellraisers</team1>
+    <team2>Secret</team2>
+    <points>0:2</points>
+  </match>
+
+  <match>
+    <team1>OG</team1>
+    <team2>Secret</team2>
+    <points>2:1</points>
+  </match>
+
+  <match>
+    <team1>EG</team1>
+    <team2>Newbee</team2>
+    <points>2:0</points>
+  </match>
+
+  <match>
+    <team1>Moscow 5</team1>
+    <team2>Vega Squadron</team2>
+    <points>1:2</points>
+  </match>
+
+  <match>
+    <team1>Gambit</team1>
+    <team2>Hellraisers</team2>
+    <points>1:2</points>
+  </match>
+
+  <match>
+    <team1>Team dota</team1>
+    <team2>KBU</team2>
+    <points>0:2</points>
+  </match>
+
+  <match>
+    <team1>Allience</team1>
+    <team2>Cloud9</team2>
+    <points>1:2</points>
+  </match>
+  
+  <match>
+    <team1>Liquid</team1>
+    <team2>Na'vi</team2>
+    <points>0:2</points>
+  </match>  
+</match_catalog>
