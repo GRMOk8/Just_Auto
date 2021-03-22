@@ -2,3 +2,9 @@ C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\bin
 C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\bin\Debug\LibXML.pdb
 C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\obj\Debug\LibXML.dll
 C:\Users\iststudent\Desktop\bash fed\Новая папка (2)\LibXML\LibXML\obj\Debug\LibXML.pdb
+C:\Users\Home\Desktop\bash fed\Just Auto\Just_Auto\LibXML\bin\Debug\LibXML.dll
+C:\Users\Home\Desktop\bash fed\Just Auto\Just_Auto\LibXML\bin\Debug\LibXML.pdb
+C:\Users\Home\Desktop\bash fed\Just Auto\Just_Auto\LibXML\obj\Debug\LibXML.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\bash fed\Just Auto\Just_Auto\LibXML\obj\Debug\LibXML.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\bash fed\Just Auto\Just_Auto\LibXML\obj\Debug\LibXML.dll
+C:\Users\Home\Desktop\bash fed\Just Auto\Just_Auto\LibXML\obj\Debug\LibXML.pdb
